@@ -1,0 +1,21 @@
+# Core Libraries
+pandas==2.3.3
+numpy==2.3.4
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Machine Learning & Preprocessing
+scikit-learn==1.7.2
+scipy==1.16.2
+statsmodels==0.14.5
+
+# Environment & Config
+python-dotenv==1.1.1
+
+# Notebook & Visualization Support
+jupyter==1.1.1
+ipython==9.6.0
+ipywidgets==8.1.7
+notebook==7.4.7
